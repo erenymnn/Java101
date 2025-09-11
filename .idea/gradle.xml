@@ -10,6 +10,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/GradePointAverageCalculation" />
+            <option value="$PROJECT_DIR$/ProgramThatCalculatesVATamount" />
+            <option value="$PROJECT_DIR$/VatAmountCalculatorProgram" />
+            <option value="$PROJECT_DIR$/VatAmountcalculatorProgram" />
+            <option value="$PROJECT_DIR$/findingTheHypotenuse" />
           </set>
         </option>
       </GradleProjectSettings>

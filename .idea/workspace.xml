@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="Kdv Tutarı hesaplayan program yapıldı." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "erenymnn"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4e7bd383-fcb8-41ed-807a-12d132113bda" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/erenymnn/Java101.git",
+    "accountId": "4e7bd383-fcb8-41ed-807a-12d132113bda"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="32ZE8SlA57sYRyH4A8w2XnMjS70" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Java101 [:org.example.notOrtalamasıHesaplayanProgram.NotHesaplama.main()].executor": "Run",
+    "Gradle.Java101:GradePointAverageCalculation [:GradePointAverageCalculation:org.example.NotHesaplama.main()].executor": "Run",
+    "Gradle.Java101:VatAmountCalculatorProgram [:VatAmountCalculatorProgram:org.example.Main.main()].executor": "Run",
+    "Gradle.Java101:VatAmountcalculatorProgram [:VatAmountcalculatorProgram:org.example.Main.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/eenes/Desktop/Java101",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/ProgramThatCalculatesVATamount/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eenes\Desktop\Java101" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="" />
+      <created>1757619538192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757619538192</updated>
+      <workItem from="1757619539258" duration="4929000" />
+    </task>
+    <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757620785748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757620785748</updated>
+    </task>
+    <task id="LOCAL-00002" summary="NotOrtalaması hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757620905367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757620905367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NotOrtalaması hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757621680189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757621680189</updated>
+    </task>
+    <task id="LOCAL-00004" summary="NotOrtalaması hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757621722134</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757621722134</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Kdv Tutarı hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757622343176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757622343176</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Kdv Tutarı hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757622509524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757622509524</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Kdv Tutarı hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757622569299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757622569299</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Kdv Tutarı hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757623414905</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757623414905</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Kdv Tutarı hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757623750688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757623750688</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Kdv Tutarı hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757623826704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757623826704</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Kdv Tutarı hesaplayan program yapıldı.">
+      <option name="closed" value="true" />
+      <created>1757624032521</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757624032521</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NotOrtalaması hesaplayan program yapıldı." />
+    <MESSAGE value="Kdv Tutarı hesaplayan program yapıldı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Kdv Tutarı hesaplayan program yapıldı." />
+  </component>
+</project>
