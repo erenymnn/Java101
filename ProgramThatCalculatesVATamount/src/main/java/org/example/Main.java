@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); //     Take the VAT amount as 18%.
-        System.out.println("Lutfen Para degerini giriniz : ");
+        System.out.println("Lutfen Para degerini giriniz: ");
 
         double kdvsizFiyat= sc.nextInt();
         double kdvliFiyat=(double)(((kdvsizFiyat*18)/100)+kdvsizFiyat);
