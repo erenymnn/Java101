@@ -6,7 +6,7 @@ public class NotHesaplama {
     public static void main(String[] args) {
      Scanner tara = new Scanner(System.in);
 
-       System.out.println("Matematik notunuzu giriniz:");
+       System.out.println("Matematik notunuzu giriniz : ");
        int matNot=tara.nextInt();
        System.out.println("Fizik notunuzu giriniz : ");
        int fizNot=tara.nextInt();
