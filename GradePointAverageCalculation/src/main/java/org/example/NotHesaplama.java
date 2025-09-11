@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class NotHesaplama {
+public class Main {
     public static void main(String[] args) {
         Scanner tara = new Scanner(System.in);
 
