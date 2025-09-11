@@ -14,7 +14,7 @@ public class Main {
         double kdvliFiyat=(((kdvsizFiyat*18)/100)+kdvsizFiyat);
         double kdvTutari=(kdvliFiyat-kdvsizFiyat);
 
-        System.out.println("KDV'siz fiyat = "+kdvsizFiyat+" KDV'li fiyat = "+kdvliFiyat+" KDVTutari = "+kdvTutari);
+        System.out.println("KDV'siz fiyat = "+kdvsizFiyat+" KDV'li fiyat = "+kdvliFiyat+" KDVTutari = "+kdvTutari );
 
 
 
