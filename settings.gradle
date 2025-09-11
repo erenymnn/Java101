@@ -1,3 +1,5 @@
 rootProject.name = 'Java101'
 include 'GradePointAverageCalculation'
 include 'VatAmountCalculatorProgram'
+include 'VatAmountcalculatorProgram'
+include 'ProgramThatCalculatesVATamount'
