@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Fibonacci" />
             <option value="$PROJECT_DIR$/GradePointAverageCalculation" />
             <option value="$PROJECT_DIR$/ProgramThatCalculatesVATamount" />
             <option value="$PROJECT_DIR$/ProgramtoFindPrimNumbersBetween1-100" />
