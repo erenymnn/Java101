@@ -16,8 +16,8 @@ public class Main {
             System.out.print(k1 + " "); // mevcut sayıyı yazdır
 
             int toplam = k1 + k2; // yeni sayı = önceki iki sayı
-            k1 = k2;              // n1 güncelle 2.sayıyı 1. yapıyor
-            k2 = toplam;          // n2 güncelle n2 yi yeni sayı + eski sayıya eşitliyor
+            k1 = k2;              // k1 güncelle 2.sayıyı 1. yapıyor
+            k2 = toplam;          // k2 güncelle k2 yi yeni sayı + eski sayıya eşitliyor
         }
     }
 }
