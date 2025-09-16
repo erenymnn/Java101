@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="The flight ticket project was carried out.">
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="An inverted triangle creation project was made.">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
@@ -60,6 +60,7 @@
   "keyToString": {
     "Gradle.Java101 [:org.example.notOrtalamasıHesaplayanProgram.NotHesaplama.main()].executor": "Run",
     "Gradle.Java101:GradePointAverageCalculation [:GradePointAverageCalculation:org.example.NotHesaplama.main()].executor": "Run",
+    "Gradle.Java101:ProgramtoFindPrimNumbersBetween1-100 [:ProgramtoFindPrimNumbersBetween1-100:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:VatAmountCalculatorProgram [:VatAmountCalculatorProgram:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:VatAmountcalculatorProgram [:VatAmountcalculatorProgram:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:findingTheHypotenuse [:findingTheHypotenuse:org.example.Main.main()].executor": "Run",
@@ -78,7 +79,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/invertedTriangleConstruction/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/ProgramtoFindPrimNumbersBetween1-100/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -263,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758029176575</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="An inverted triangle creation project was made.">
+      <option name="closed" value="true" />
+      <created>1758034720805</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1758034720805</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +295,8 @@
     <MESSAGE value="Hipotenüs hesaplayan program yapıldı." />
     <MESSAGE value="." />
     <MESSAGE value="The flight ticket project was carried out." />
-    <option name="LAST_COMMIT_MESSAGE" value="The flight ticket project was carried out." />
+    <MESSAGE value="An inverted triangle creation project was made." />
+    <option name="LAST_COMMIT_MESSAGE" value="An inverted triangle creation project was made." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
