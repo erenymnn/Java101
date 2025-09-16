@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/VatAmountcalculatorProgram" />
             <option value="$PROJECT_DIR$/findingTheHypotenuse" />
             <option value="$PROJECT_DIR$/flightTicket" />
+            <option value="$PROJECT_DIR$/invertedTriangleConstruction" />
           </set>
         </option>
       </GradleProjectSettings>
