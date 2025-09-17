@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/flightTicket" />
             <option value="$PROJECT_DIR$/invertedTriangleConstruction" />
             <option value="$PROJECT_DIR$/palindrom" />
+            <option value="$PROJECT_DIR$/recursiveExponentCalculation" />
           </set>
         </option>
       </GradleProjectSettings>
