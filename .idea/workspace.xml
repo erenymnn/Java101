@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="Fibonacci sequence was made.">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="isPalindrom is made .">
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +78,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/palindrom/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/RecursiveFibonacci/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -112,7 +110,7 @@
       <updated>1757619538192</updated>
       <workItem from="1757619539258" duration="5882000" />
       <workItem from="1758024168220" duration="1077000" />
-      <workItem from="1758103492026" duration="1540000" />
+      <workItem from="1758103492026" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
       <option name="closed" value="true" />
@@ -306,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758036275833</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="isPalindrom is made .">
+      <option name="closed" value="true" />
+      <created>1758105082865</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1758105082865</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +338,8 @@
     <MESSAGE value="An inverted triangle creation project was made." />
     <MESSAGE value="A project to find prime numbers between 1 and 100 was developed." />
     <MESSAGE value="Fibonacci sequence was made." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci sequence was made." />
+    <MESSAGE value="isPalindrom is made ." />
+    <option name="LAST_COMMIT_MESSAGE" value="isPalindrom is made ." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -341,6 +348,11 @@
           <url>file://$PROJECT_DIR$/flightTicket/src/main/java/org/example/Main.java</url>
           <line>42</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RecursiveFibonacci/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
