@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/findingTheHypotenuse" />
             <option value="$PROJECT_DIR$/flightTicket" />
             <option value="$PROJECT_DIR$/invertedTriangleConstruction" />
+            <option value="$PROJECT_DIR$/palindrom" />
           </set>
         </option>
       </GradleProjectSettings>
