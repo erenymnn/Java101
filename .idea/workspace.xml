@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="isPalindrom is made .">
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="The Fibonacci sequence is generated using recursion.">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +62,10 @@
     "Gradle.Java101 [:org.example.notOrtalamasıHesaplayanProgram.NotHesaplama.main()].executor": "Run",
     "Gradle.Java101:GradePointAverageCalculation [:GradePointAverageCalculation:org.example.NotHesaplama.main()].executor": "Run",
     "Gradle.Java101:ProgramtoFindPrimNumbersBetween1-100 [:ProgramtoFindPrimNumbersBetween1-100:org.example.Main.main()].executor": "Run",
+    "Gradle.Java101:RecursiveFibonacci [:RecursiveFibonacci:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:VatAmountCalculatorProgram [:VatAmountCalculatorProgram:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:VatAmountcalculatorProgram [:VatAmountcalculatorProgram:org.example.Main.main()].executor": "Run",
+    "Gradle.Java101:advancedCalculator [:advancedCalculator:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:findingTheHypotenuse [:findingTheHypotenuse:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:flightTicket [:flightTicket:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:invertedTriangleConstruction [:invertedTriangleConstruction:org.example.Main.main()].executor": "Run",
@@ -78,12 +83,12 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/RecursiveFibonacci/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/advancedCalculator/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -92,6 +97,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\eenes\Desktop\Java101" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Java101.advancedCalculator.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -110,7 +135,7 @@
       <updated>1757619538192</updated>
       <workItem from="1757619539258" duration="5882000" />
       <workItem from="1758024168220" duration="1077000" />
-      <workItem from="1758103492026" duration="1680000" />
+      <workItem from="1758103492026" duration="6832000" />
     </task>
     <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
       <option name="closed" value="true" />
@@ -312,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758105082865</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="The Fibonacci sequence is generated using recursion.">
+      <option name="closed" value="true" />
+      <created>1758105491275</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1758105491275</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,7 +372,8 @@
     <MESSAGE value="A project to find prime numbers between 1 and 100 was developed." />
     <MESSAGE value="Fibonacci sequence was made." />
     <MESSAGE value="isPalindrom is made ." />
-    <option name="LAST_COMMIT_MESSAGE" value="isPalindrom is made ." />
+    <MESSAGE value="The Fibonacci sequence is generated using recursion." />
+    <option name="LAST_COMMIT_MESSAGE" value="The Fibonacci sequence is generated using recursion." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -351,7 +385,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/RecursiveFibonacci/src/main/java/org/example/Main.java</url>
-          <line>13</line>
+          <line>20</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>

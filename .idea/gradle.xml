@@ -4,8 +4,8 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/RecursiveFibonacci" />
             <option value="$PROJECT_DIR$/VatAmountCalculatorProgram" />
             <option value="$PROJECT_DIR$/VatAmountcalculatorProgram" />
+            <option value="$PROJECT_DIR$/advancedCalculator" />
             <option value="$PROJECT_DIR$/findingTheHypotenuse" />
             <option value="$PROJECT_DIR$/flightTicket" />
             <option value="$PROJECT_DIR$/invertedTriangleConstruction" />
