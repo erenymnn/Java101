@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="Finding prime numbers using recursive operation">
-      <change afterPath="$PROJECT_DIR$/studentInformationSystem/src/main/java/org/example/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentInformationSystem/src/main/java/org/example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentInformationSystem/src/main/java/org/example/Teacher.java" afterDir="false" />
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="Student Information System Built.">
+      <change afterPath="$PROJECT_DIR$/fightingGame/src/main/java/org/example/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fightingGame/src/main/java/org/example/Match.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
@@ -69,6 +68,7 @@
     "Gradle.Java101:VatAmountCalculatorProgram [:VatAmountCalculatorProgram:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:VatAmountcalculatorProgram [:VatAmountcalculatorProgram:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:advancedCalculator [:advancedCalculator:org.example.Main.main()].executor": "Run",
+    "Gradle.Java101:fightingGame [:fightingGame:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:findingTheHypotenuse [:findingTheHypotenuse:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:flightTicket [:flightTicket:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:invertedTriangleConstruction [:invertedTriangleConstruction:org.example.Main.main()].executor": "Run",
@@ -88,7 +88,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/studentInformationSystem/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/fightingGame/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -103,7 +103,7 @@
       <recent name="C:\Users\eenes\Desktop\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Java101.recursiveExponentCalculation.main" />
@@ -143,6 +143,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Java101.fightingGame.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Java101.advancedCalculator.main" />
@@ -158,6 +171,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
@@ -183,7 +197,7 @@
       <workItem from="1757619539258" duration="5882000" />
       <workItem from="1758024168220" duration="1077000" />
       <workItem from="1758103492026" duration="9277000" />
-      <workItem from="1758729636291" duration="4815000" />
+      <workItem from="1758729636291" duration="9816000" />
     </task>
     <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
       <option name="closed" value="true" />
@@ -417,7 +431,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758115300697</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Student Information System Built.">
+      <option name="closed" value="true" />
+      <created>1758734804065</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1758734804065</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +470,8 @@
     <MESSAGE value="Advanced calculator made." />
     <MESSAGE value="Advanced exponent calculation with recursive made." />
     <MESSAGE value="Finding prime numbers using recursive operation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding prime numbers using recursive operation" />
+    <MESSAGE value="Student Information System Built." />
+    <option name="LAST_COMMIT_MESSAGE" value="Student Information System Built." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
