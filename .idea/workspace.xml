@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="harmonic calculator created.">
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="max and min found in array.">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
@@ -59,6 +60,7 @@
   "keyToString": {
     "Gradle.Java101 [:org.example.notOrtalamasıHesaplayanProgram.NotHesaplama.main()].executor": "Run",
     "Gradle.Java101:GradePointAverageCalculation [:GradePointAverageCalculation:org.example.NotHesaplama.main()].executor": "Run",
+    "Gradle.Java101:MaxMinArray [:MaxMinArray:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:ProgramtoFindPrimNumbersBetween1-100 [:ProgramtoFindPrimNumbersBetween1-100:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:RecursiveFibonacci [:RecursiveFibonacci:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:RecursivePrimeNumbersFind [:RecursivePrimeNumbersFind:org.example.Main.main()].executor": "Run",
@@ -71,6 +73,7 @@
     "Gradle.Java101:harmonicSeriesFormula [:harmonicSeriesFormula:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:invertedTriangleConstruction [:invertedTriangleConstruction:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:palindrom [:palindrom:org.example.Main.main()].executor": "Run",
+    "Gradle.Java101:printingLettersWithMultidimensionalArray [:printingLettersWithMultidimensionalArray:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:recursiveExponentCalculation [:recursiveExponentCalculation:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:salaryCalculator [:salaryCalculator:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:studentInformationSystem [:studentInformationSystem:org.example.Main.main()].executor": "Run",
@@ -87,7 +90,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/MaxMinArray/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/printingLettersWithMultidimensionalArray/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -102,7 +105,7 @@
       <recent name="C:\Users\eenes\Desktop\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Java101.MaxMinArray.main" />
@@ -116,9 +119,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Java101.studentInformationSystem.main" />
+      <module name="Java101.printingLettersWithMultidimensionalArray.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -170,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +201,7 @@
       <workItem from="1758103492026" duration="9277000" />
       <workItem from="1758729636291" duration="9816000" />
       <workItem from="1758810074620" duration="6883000" />
-      <workItem from="1759005668478" duration="119000" />
+      <workItem from="1759005668478" duration="2289000" />
     </task>
     <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
       <option name="closed" value="true" />
@@ -472,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758821585980</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="max and min found in array.">
+      <option name="closed" value="true" />
+      <created>1759006010016</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1759006010016</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,7 +518,8 @@
     <MESSAGE value="fight play built." />
     <MESSAGE value="salary calculation improved." />
     <MESSAGE value="harmonic calculator created." />
-    <option name="LAST_COMMIT_MESSAGE" value="harmonic calculator created." />
+    <MESSAGE value="max and min found in array." />
+    <option name="LAST_COMMIT_MESSAGE" value="max and min found in array." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -521,11 +533,6 @@
           <url>file://$PROJECT_DIR$/RecursiveFibonacci/src/main/java/org/example/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/MaxMinArray/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
