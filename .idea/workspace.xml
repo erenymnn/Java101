@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="max and min found in array.">
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="Letter A Made.">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
@@ -69,6 +69,7 @@
     "Gradle.Java101:advancedCalculator [:advancedCalculator:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:fightingGame [:fightingGame:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:findingTheHypotenuse [:findingTheHypotenuse:org.example.Main.main()].executor": "Run",
+    "Gradle.Java101:findingTheRepeatingNumber [:findingTheRepeatingNumber:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:flightTicket [:flightTicket:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:harmonicSeriesFormula [:harmonicSeriesFormula:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:invertedTriangleConstruction [:invertedTriangleConstruction:org.example.Main.main()].executor": "Run",
@@ -90,7 +91,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/printingLettersWithMultidimensionalArray/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/findingTheRepeatingNumber/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -105,7 +106,7 @@
       <recent name="C:\Users\eenes\Desktop\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Java101.MaxMinArray.main" />
@@ -132,9 +133,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Java101.fightingGame.main" />
+      <module name="Java101.findingTheRepeatingNumber.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -173,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +202,7 @@
       <workItem from="1758103492026" duration="9277000" />
       <workItem from="1758729636291" duration="9816000" />
       <workItem from="1758810074620" duration="6883000" />
-      <workItem from="1759005668478" duration="2289000" />
+      <workItem from="1759005668478" duration="3448000" />
     </task>
     <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
       <option name="closed" value="true" />
@@ -483,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759006010016</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Letter A Made.">
+      <option name="closed" value="true" />
+      <created>1759008124521</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1759008124521</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +528,8 @@
     <MESSAGE value="salary calculation improved." />
     <MESSAGE value="harmonic calculator created." />
     <MESSAGE value="max and min found in array." />
-    <option name="LAST_COMMIT_MESSAGE" value="max and min found in array." />
+    <MESSAGE value="Letter A Made." />
+    <option name="LAST_COMMIT_MESSAGE" value="Letter A Made." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
