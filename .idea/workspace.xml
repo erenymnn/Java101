@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="salary calculation improved.">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="harmonic calculator created.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
@@ -88,7 +87,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/harmonicSeriesFormula/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/MaxMinArray/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -103,10 +102,10 @@
       <recent name="C:\Users\eenes\Desktop\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Java101.RecursivePrimeNumbersFind.main" />
+      <module name="Java101.MaxMinArray.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -171,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +197,8 @@
       <workItem from="1758024168220" duration="1077000" />
       <workItem from="1758103492026" duration="9277000" />
       <workItem from="1758729636291" duration="9816000" />
-      <workItem from="1758810074620" duration="6676000" />
+      <workItem from="1758810074620" duration="6883000" />
+      <workItem from="1759005668478" duration="119000" />
     </task>
     <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
       <option name="closed" value="true" />
@@ -464,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758812586998</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="harmonic calculator created.">
+      <option name="closed" value="true" />
+      <created>1758821585980</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1758821585980</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +506,8 @@
     <MESSAGE value="Student Information System Built." />
     <MESSAGE value="fight play built." />
     <MESSAGE value="salary calculation improved." />
-    <option name="LAST_COMMIT_MESSAGE" value="salary calculation improved." />
+    <MESSAGE value="harmonic calculator created." />
+    <option name="LAST_COMMIT_MESSAGE" value="harmonic calculator created." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -512,6 +521,11 @@
           <url>file://$PROJECT_DIR$/RecursiveFibonacci/src/main/java/org/example/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MaxMinArray/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
