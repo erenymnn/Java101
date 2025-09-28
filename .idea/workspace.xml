@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment=" add duplicate number detection using nested loops and helper method.">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/findingTheRepeatingNumber/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/findingTheRepeatingNumber/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +90,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/sortingElementsInAnArray/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/matrisTranspoz/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -204,7 +201,7 @@
       <workItem from="1758103492026" duration="9277000" />
       <workItem from="1758729636291" duration="9816000" />
       <workItem from="1758810074620" duration="6883000" />
-      <workItem from="1759005668478" duration="5921000" />
+      <workItem from="1759005668478" duration="6108000" />
     </task>
     <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
       <option name="closed" value="true" />
@@ -502,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759009179663</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary=" add duplicate number detection using nested loops and helper method.">
+      <option name="closed" value="true" />
+      <created>1759013805045</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1759013805045</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,6 +559,11 @@
           <url>file://$PROJECT_DIR$/RecursiveFibonacci/src/main/java/org/example/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/matrisTranspoz/src/main/java/org/example/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
