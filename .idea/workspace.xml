@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment=".">
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="Number guessing game created.">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
@@ -76,6 +76,7 @@
     "Gradle.Java101:numberGuessingGame [:numberGuessingGame:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:palindrom [:palindrom:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:printingLettersWithMultidimensionalArray [:printingLettersWithMultidimensionalArray:org.example.Main.main()].executor": "Run",
+    "Gradle.Java101:programToFindPalindromicWords [:programToFindPalindromicWords:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:recursiveExponentCalculation [:recursiveExponentCalculation:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:salaryCalculator [:salaryCalculator:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:sortingElementsInAnArray [:sortingElementsInAnArray:org.example.Main.main()].executor": "Run",
@@ -93,7 +94,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/numberGuessingGame/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/programToFindPalindromicWords/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -108,20 +109,7 @@
       <recent name="C:\Users\eenes\Desktop\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Java101.MaxMinArray.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Java101.printingLettersWithMultidimensionalArray.main" />
@@ -174,13 +162,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Java101.programToFindPalindromicWords.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +206,7 @@
       <workItem from="1758729636291" duration="9816000" />
       <workItem from="1758810074620" duration="6883000" />
       <workItem from="1759005668478" duration="6108000" />
-      <workItem from="1759081334735" duration="2965000" />
+      <workItem from="1759081334735" duration="3382000" />
     </task>
     <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
       <option name="closed" value="true" />
@@ -519,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759081371622</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Number guessing game created.">
+      <option name="closed" value="true" />
+      <created>1759084379855</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1759084379855</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,7 +566,8 @@
     <MESSAGE value="Letter A Made." />
     <MESSAGE value=" add duplicate number detection using nested loops and helper method." />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Number guessing game created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Number guessing game created." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
