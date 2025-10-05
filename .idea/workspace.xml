@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="Number guessing game created.">
+    <list default="true" id="98340a25-def4-46da-bacb-9e13775df5bf" name="Changes" comment="Program to Find Palindromic Words built.">
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Armor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/BattleLoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Cave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Forest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/GameChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/NormalLoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/River.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/SafeHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Samuray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/ToolStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Vampire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adventureGame/src/main/java/org/example/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minesweeperGame/src/main/java/org/example/MineSweeper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
@@ -67,12 +90,14 @@
     "Gradle.Java101:VatAmountCalculatorProgram [:VatAmountCalculatorProgram:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:VatAmountcalculatorProgram [:VatAmountcalculatorProgram:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:advancedCalculator [:advancedCalculator:org.example.Main.main()].executor": "Run",
+    "Gradle.Java101:adventureGame [:adventureGame:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:fightingGame [:fightingGame:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:findingTheHypotenuse [:findingTheHypotenuse:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:findingTheRepeatingNumber [:findingTheRepeatingNumber:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:flightTicket [:flightTicket:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:harmonicSeriesFormula [:harmonicSeriesFormula:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:invertedTriangleConstruction [:invertedTriangleConstruction:org.example.Main.main()].executor": "Run",
+    "Gradle.Java101:minesweeperGame [:minesweeperGame:org.example.Main.main()].executor": "Debug",
     "Gradle.Java101:numberGuessingGame [:numberGuessingGame:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:palindrom [:palindrom:org.example.Main.main()].executor": "Run",
     "Gradle.Java101:printingLettersWithMultidimensionalArray [:printingLettersWithMultidimensionalArray:org.example.Main.main()].executor": "Run",
@@ -94,7 +119,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/programToFindPalindromicWords/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/eenes/Desktop/Java101/BattleLoc/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -109,10 +134,23 @@
       <recent name="C:\Users\eenes\Desktop\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Java101.minesweeperGame.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Java101.printingLettersWithMultidimensionalArray.main" />
+      <module name="Java101.adventureGame.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -123,9 +161,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Java101.findingTheRepeatingNumber.main" />
+      <module name="Java101.minesweeperGame.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -136,7 +174,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Java101.minesweeperGame.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Java101.adventureGame.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Java101.sortingElementsInAnArray.main" />
       <extension name="coverage">
@@ -149,7 +213,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Java101.sortingElementsInAnArray.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Java101.numberGuessingGame.main" />
       <extension name="coverage">
@@ -175,13 +252,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Java101.adventureGame.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +295,15 @@
       <workItem from="1758729636291" duration="9816000" />
       <workItem from="1758810074620" duration="6883000" />
       <workItem from="1759005668478" duration="6108000" />
-      <workItem from="1759081334735" duration="3382000" />
+      <workItem from="1759081334735" duration="8731000" />
+      <workItem from="1759272012729" duration="1413000" />
+      <workItem from="1759347671743" duration="4177000" />
+      <workItem from="1759353065401" duration="2561000" />
+      <workItem from="1759423232507" duration="7343000" />
+      <workItem from="1759531847323" duration="77000" />
+      <workItem from="1759533157650" duration="485000" />
+      <workItem from="1759609392118" duration="4214000" />
+      <workItem from="1759671086866" duration="7640000" />
     </task>
     <task id="LOCAL-00001" summary="NotOrtalaması hesaplayan program yapıldı.">
       <option name="closed" value="true" />
@@ -528,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759084379855</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Program to Find Palindromic Words built.">
+      <option name="closed" value="true" />
+      <created>1759084958704</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1759084958704</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +672,8 @@
     <MESSAGE value=" add duplicate number detection using nested loops and helper method." />
     <MESSAGE value="." />
     <MESSAGE value="Number guessing game created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Number guessing game created." />
+    <MESSAGE value="Program to Find Palindromic Words built." />
+    <option name="LAST_COMMIT_MESSAGE" value="Program to Find Palindromic Words built." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -581,6 +687,31 @@
           <url>file://$PROJECT_DIR$/RecursiveFibonacci/src/main/java/org/example/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/adventureGame/src/main/java/org/example/Player.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/adventureGame/src/main/java/org/example/Player.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/adventureGame/src/main/java/org/example/GameChar.java</url>
+          <line>9</line>
+          <properties class="org.example.GameChar" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/adventureGame/src/main/java/org/example/GameChar.java</url>
+          <line>7</line>
+          <properties field="name" class="org.example.GameChar" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
